@@ -16,4 +16,11 @@ Here are some ideas to get you started:
 -->
 
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=KYEONGSEO&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=FFA883&height=300&section=header&text=KYEONG%20SEO&fontSize=70)
+
+<h3 align="center">Tech Tree</h3>
+
+<p align="center">
+
+
+</>
