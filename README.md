@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=FFA883&height=300&section=header&text=KYEONG%20SEO&fontSize=70)
 
-<h3 align="center">Tech Tree</h3>
+<h3 align="center">⚔️Tech Stack⚔️</h3>
 
 <p align="center">
 
