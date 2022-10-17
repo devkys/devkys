@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=tokyonight&height=300&section=header&text=KWON KYEONGSEO%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=tokyonight&height=300&section=header&text=KWONKYEONGSEO%20render&fontSize=90)
