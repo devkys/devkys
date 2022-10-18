@@ -9,6 +9,7 @@
 
 <p align=center>
 ⚒️Tech Stack⚒️
+</p>
 
 <div align=center>
 
@@ -35,29 +36,7 @@
 <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white">
 <br> <br> <br>
-  
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devkys&hide=stars&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
-
 </div>
 
-</p>
 
-<!--
-**devkys/devkys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devkys&hide=stars&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devkys&layout=compact)](https://github.com/devkys)
