@@ -1,4 +1,12 @@
-<!-- ### Hi there 👋 -->
+<h2>경서 Kyeong Seo</h2>
+
+
+<h3>Hi there 👋</h3>
+
+
+- ✏️ 4th College Student
+- 🌱 Current learning in web full stack
+- 👀 Interested in Computer Vision
 
 <!--
 **devkys/devkys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,14 +24,5 @@ Here are some ideas to get you started:
 -->
 
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=FFA883&height=300&section=header&text=KYEONG%20SEO&fontSize=70)
 
-<h3 align="center">⚔️Tech Stack⚔️</h3>
-
-<p align="center">
-<ul>
-  <li> i'm a college student.
-
-  </ul>
-</p>
 
