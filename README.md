@@ -34,13 +34,12 @@
 
 <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white">
-<br>
+<br> <br> <br>
+  
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devkys&hide=stars&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
 
 </div>
-
-
-[![devkys' GitHub stats](https://github-readme-stats.vercel.app/api?username=devkys&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devkys&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </p>
 
