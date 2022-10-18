@@ -4,7 +4,7 @@
 <h3>Hi there 👋</h3>
 
 
-- ✏️ 4th College Student
+- ✏️ Computer Engineering 4th Year
 - 🌱 Current learning in web full stack
 - 👀 Interested in Computer Vision
 
